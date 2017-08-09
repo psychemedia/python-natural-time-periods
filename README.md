@@ -5,15 +5,15 @@ Python package for returning time periods corresponding to natural language phra
 
 ## Usage
 
-Install using: `pip3 install --force-reinstall  --upgrade git+https://github.com/psychemedia/python-natural-time-periods.git `
+Install using: `pip3 install --force-reinstall  --upgrade git+https://github.com/psychemedia/python-natural-time-periods.git`
 
 
 The following period functions are defined:
 
-- today, yesterday, tomorrow
-- last_week, this_week, next_week, later_this_week, earlier_this_week
-- last_month, next_month, this_month, earlier_this_month, later_this_month
-- day_lastweek, day_thisweek, day_nextweek
+- `today()`, `yesterday()`, `tomorrow()`
+- `last_week()`, `this_week()`, `next_week()`, `later_this_week()`, `earlier_this_week()`
+- `last_month()`, `next_month()`, `this_month()`, `earlier_this_month()`, `later_this_month()`
+- `day_lastweek()`, `day_thisweek()`, `day_nextweek()`
 
 ````
 import natural_time_periods as ntpd
