@@ -43,4 +43,4 @@ Provide an option to return `pandas` period objects.
 
 ### Related packages
 
-- [natural_time](https://github.com/DavidAmison/natural_time)
+- [DavidAmison/natural_time](https://github.com/DavidAmison/natural_time)
