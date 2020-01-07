@@ -47,3 +47,5 @@ Provide an option to return `pandas` period objects.
 - [TimeConvert](https://github.com/xxx-convert/TimeConvert)
 - [timefhuman](https://github.com/alvinwan/timefhuman)
 - [pytimeparse](https://github.com/wroberts/pytimeparse)
+- [timeago](https://github.com/hustcc/timeago)
+- [ctparse](https://github.com/comtravo/ctparse)
