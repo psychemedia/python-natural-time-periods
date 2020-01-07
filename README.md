@@ -45,3 +45,4 @@ Provide an option to return `pandas` period objects.
 
 - [DavidAmison/natural_time](https://github.com/DavidAmison/natural_time)
 - [TimeConvert](https://github.com/xxx-convert/TimeConvert)
+- [timefhuman](https://github.com/alvinwan/timefhuman)
